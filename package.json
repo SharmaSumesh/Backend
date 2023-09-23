@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^3.0.1",
+    "validator": "^13.11.0"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\"hi name is sumesh\"",
+  "main": "Os.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"sumesh\"",
+  "license": "ISC",
+  "keywords": []
+}
